@@ -71,5 +71,19 @@ By following this pipeline, I was able to turn scattered dog shelter records int
 
 ---
 
+## Visuals  
+
+### Excel Dashboard  
+![Dog Shelter Dashboard](images/excel_dashboard.png)  
+
+### SSAS Cube Schema  
+![SSAS Cube Schema](images/cube_schema.png)  
+
+### Star Schema  
+![Star Schema](images/star_schema.png)  
+
+
+---
+
 ## Acknowledgment
 This project was guided by **Dr. Ryan LaBrie** as part of ISM 6255 at Seattle Pacific University. Every step of the build—Access database design, SQL Server transformation, cube development in Visual Studio, and Excel dashboards—reflects how Business Intelligence tools can be applied to support real-world decisions in animal welfare.  
